@@ -1,5 +1,5 @@
 import "./widgetSm.css";
-import { Visibility } from "@material-ui/icons";
+import { Visibility } from "@mui/icons-material";
 
 export default function WidgetSm() {
   return (
